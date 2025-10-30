@@ -26,13 +26,13 @@ For large amounts, consider:
 - Multisig wallets
 - Professional custody solutions
 
-![Wallet Banner](assets/btc2.png)
+![Wallet Image](assets/btc2.png)
 
 ## Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/secure-btc-wallet.git
+git clone https://github.com/theslavprod/secure-btc-wallet.git
 ```
 
 2. Navigate to the folder:
